@@ -46,24 +46,12 @@ Engineering Practices : Code Reviews, Enterprise Integrations, Incident Resoluti
 
 ### Featured Repositories
 
-> 💡 *Pin your flagship Java/Spring Boot repositories here to showcase code structure and tests.*
-
 | Repository | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[project-name](https://github.com/tu-usuario/project-name)** | Domain-Driven Design and Hexagonal Architecture boilerplate / demo service. | Java 21, Spring Boot, PostgreSQL, Docker |
-| **[api-service](https://github.com/tu-usuario/api-service)** | Scalable REST API with database migrations, JWT auth, and automated test suite. | Spring Data JPA, Testcontainers, AWS |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+| **[MotoGP Predictor](https://github.com/ahmFA/MotoGP)** | Domain-Driven Design and Hexagonal Architecture boilerplate / demo service. | Java 21, Spring Boot, PostgreSQL, Docker |
 
 ---
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-hortelano-de-la-morena-8333b8146/))
+- **LinkedIn:** Alejandro Hortelano de la Morena (https://www.linkedin.com/in/alejandro-hortelano-de-la-morena-8333b8146/)
