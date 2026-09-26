@@ -11,12 +11,12 @@ Currently expanding my technical focus into the **modern Java ecosystem (Java 21
 ---
 
 ### Core Tech Stack & Tooling
-Backend & Core        : Java 21, PHP, SQL
-Frameworks & Libraries: Spring Boot, Spring Data JPA, RESTful APIs
-Data & Persistence    : PostgreSQL, MySQL, Relational Database Modeling, Query Optimization
-Architecture & Design : Hexagonal Architecture, Domain-Driven Design (DDD), Clean Architecture, Microservices patterns
-DevOps & Cloud        : Docker, AWS, CI/CD Pipelines, Git / GitHub Actions
-Engineering Practices : Code Reviews, Enterprise Integrations, Incident Resolution, Release Management
+- Backend & Core        : Java 21, PHP, SQL
+- Frameworks & Libraries: Spring Boot, Spring Data JPA, RESTful APIs
+- Data & Persistence    : PostgreSQL, MySQL, Relational Database Modeling, Query Optimization
+- Architecture & Design : Hexagonal/Clean Architecture, Domain-Driven Design (DDD), Clean code
+- DevOps & Cloud        : Docker, AWS, CI/CD Pipelines, Git / GitHub Actions
+- Engineering Practices : Code Reviews, Enterprise Integrations, Release Management, Incident Resolution
 
 #### Badges
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +48,7 @@ Engineering Practices : Code Reviews, Enterprise Integrations, Incident Resoluti
 
 | Repository | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[MotoGP Predictor](https://github.com/ahmFA/MotoGP)** | Domain-Driven Design and Hexagonal Architecture boilerplate / demo service. | Java 21, Spring Boot, PostgreSQL, Docker |
+| **[MotoGP Predictor](https://github.com/ahmFA/MotoGP)** | API RESTful with DDD and Hexagonal Architecture | Java 21, Spring Boot, PostgreSQL, Docker and AWS|
 
 ---
 
