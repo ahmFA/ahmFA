@@ -10,7 +10,7 @@ Currently expanding my technical focus into the **modern Java ecosystem (Java 21
 
 ---
 
-### 🛠️ Core Tech Stack & Tooling
+### Core Tech Stack & Tooling
 Backend & Core        : Java 21, PHP, SQL
 Frameworks & Libraries: Spring Boot, Spring Data JPA, RESTful APIs
 Data & Persistence    : PostgreSQL, MySQL, Relational Database Modeling, Query Optimization
@@ -52,6 +52,6 @@ Engineering Practices : Code Reviews, Enterprise Integrations, Incident Resoluti
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - **LinkedIn:** Alejandro Hortelano de la Morena (https://www.linkedin.com/in/alejandro-hortelano-de-la-morena-8333b8146/)
